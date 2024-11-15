@@ -1,0 +1,18 @@
+{
+  "name": "fooproject",
+  "version": "1.0.0",
+  "description": "This project demonstrates a simple CI/CD pipeline with a test for a `sum` function.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
